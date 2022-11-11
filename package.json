@@ -1,0 +1,11 @@
+{
+  "name": "purchaseholic",
+  "version": "1.0.0",
+  "description": "purchase phones like an idiot :(",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahmed elzohairy",
+  "license": "ISC"
+}

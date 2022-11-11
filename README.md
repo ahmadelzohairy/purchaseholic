@@ -1,0 +1,5 @@
+- total price phone purchase
+- keep purchase phones untill money in bank account is runs out.
+- also buy accessories for each phone
+- claculate tax and add it to total price
+- check price against money in the bank
